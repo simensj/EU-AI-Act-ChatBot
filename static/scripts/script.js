@@ -286,7 +286,7 @@ function showConsentBanner() {
   </p>
   <p>
     Dette prosjektet er utviklet som del av en <strong>bacheloroppgave ved Høyskolen i Molde av Simen Johannessen og Henrik Hoset</strong>. Kildekoden er åpen og kan finnes her:  
-    <a href="https://github.com/ditt-repo" target="_blank">https://github.com/ditt-repo</a>
+    <a href="https://github.com/simensj/EU-AI-Act-ChatBot" target="_blank">https://github.com/simensj/EU-AI-Act-ChatBot</a>
   </p>
 `;
   };
